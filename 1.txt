@@ -3,12 +3,7 @@ soy el mundo
 
 yo soy 2
 
-3
 
-
-4
-
-5
 
 branch 5
 
